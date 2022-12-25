@@ -1,8 +1,11 @@
+body {
+  font-family: 'Lato';
+}
+
 .navbar {
   display: flex;
   position: relative;
   color: white;
-  border:1px solid blue; 
   font-size: 1.4rem;
   align-items: center;
 }
@@ -32,7 +35,7 @@
 }
 
 .item a{
-  color: #FFF;
+  color: #858479;
   text-decoration: none;
   text-transform: uppercase;
   font-family: 'Lato';
