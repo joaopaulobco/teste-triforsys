@@ -1,8 +1,8 @@
 .img {
   position: absolute;
   height: 480px;
-  left: calc(50% - 2260px / 2);
-  width: 2260px;
+  left: 10px;
+
 
 }
 
@@ -11,14 +11,12 @@
   width: 368px;
   height: 29px;
   left: calc(50% - 368px / 2 - 0px);
-  top: 453px;
-
+  top: 413px;
   font-family: "Lato";
   font-style: normal;
   font-weight: 400;
   font-size: 36px;
   line-height: 40px;
-
   display: flex;
   align-items: center;
   text-align: center;
@@ -32,7 +30,7 @@
   width: 368px;
   height: 19px;
   left: calc(50% - 300px / 2 - 0px);
-  top: 493px;
+  top: 453px;
 
   font-family: "Lato";
   font-style: normal;

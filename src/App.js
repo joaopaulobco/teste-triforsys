@@ -1,6 +1,6 @@
 import './App.css';
 import './components/Navbar'
-import {Header} from './components/Header';
+import { Header } from './components/Header';
 import './assets/css/global.css'
 import { Section } from './components/Section';
 
@@ -9,15 +9,15 @@ function App() {
   return (
     <div className='app'>
       <div>
-        <Header/>
+        <Header />
       </div>
 
       <div>
-        <Section/>
+        <Section />
       </div>
     </div>
 
-   
+
   );
 }
 

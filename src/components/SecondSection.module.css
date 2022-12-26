@@ -1,0 +1,37 @@
+.second {
+    display: flex;
+    justify-content: space-between;
+}
+
+.livro {
+    background-color: black;
+position: absolute;
+width: 272px;
+height: 80px;
+left: 152px;
+top: 552px;
+
+}
+
+.video {
+    background-color: black;
+    position: absolute;
+width: 272px;
+height: 80px;
+left: 538px;
+top: 552px;
+
+}
+
+.button{
+    position: absolute;
+width: 368px;
+height: 48px;
+left: calc(50% - 368px/2 + 384px);
+top: 568px;
+background: #C5AF19;
+border-radius: 4px;
+color: white;
+text-transform: uppercase;
+
+}
