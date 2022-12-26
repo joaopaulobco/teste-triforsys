@@ -1,5 +1,5 @@
-import {Container} from './Container'
-import {Navbar} from './Navbar'
+import { Container } from './Container'
+import { Navbar } from './Navbar'
 import styles from "./Header.module.css"
 
 export const Header = () => {

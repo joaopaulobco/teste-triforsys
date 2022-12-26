@@ -2,13 +2,21 @@ import './App.css';
 import './components/Navbar'
 import {Header} from './components/Header';
 import './assets/css/global.css'
+import { Section } from './components/Section';
 
 
 function App() {
   return (
     <div className='app'>
-      <Header/>
+      <div>
+        <Header/>
+      </div>
+
+      <div>
+        <Section/>
+      </div>
     </div>
+
    
   );
 }
