@@ -1,23 +1,17 @@
-import './App.css';
-import './components/Navbar'
-import { Header } from './components/Header';
-import './assets/css/global.css'
-import { Section } from './components/Section';
-
+import "./App.css";
+import "./components/Navbar";
+import { Header } from "./components/Header";
+import "./assets/css/global.css";
+import { BannerHome } from "./components/BannerHome"
+import { InfoHome } from "./components/InfoHome"
 
 function App() {
   return (
-    <div className='app'>
-      <div>
-        <Header />
-      </div>
-
-      <div>
-        <Section />
-      </div>
+    <div className="app">
+          <Header />
+          <BannerHome/>
+          <InfoHome/>
     </div>
-
-
   );
 }
 

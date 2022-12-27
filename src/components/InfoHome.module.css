@@ -1,0 +1,31 @@
+.infoHome {
+  
+  background-color: black;
+}
+
+.infoHomeContent {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.livro {
+  background-color: black;
+  width: 272px;
+  height: 80px;
+}
+
+.video {
+  background-color: black;
+  width: 272px;
+  height: 80px;
+}
+
+.button {
+  width: 368px;
+  height: 48px;
+  background: #c5af19;
+  border-radius: 4px;
+  color: white;
+  text-transform: uppercase;
+}
