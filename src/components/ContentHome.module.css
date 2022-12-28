@@ -1,0 +1,66 @@
+.contentHome {
+    background-color: black;
+    position: relative;
+    padding-top: 40px;
+}
+
+.textContainer {
+    display: flex;
+    position: relative;
+}
+
+.text {
+    background-color: white;
+    padding: 30px 40px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+
+}
+
+.imgContent {
+    display: flex;
+    justify-content: space-between;
+}
+
+.abstract {
+    color: #858479;
+
+}
+
+.abstract p {
+    margin: 0;
+}
+
+.title {
+    color: black;
+    text-transform: uppercase;
+}
+
+.title h1 {
+    margin: 0;
+}
+
+.contentImgHome2 {
+    box-shadow: inset 0px 0px 1px #FFFFFF;
+} 
+
+.contentImgHome3 {
+    position: relative;
+    box-shadow: inset 0px 0px 1px #FFFFFF;
+} 
+
+.contentImgHome2Text {
+   text-transform: uppercase;
+    font-size: 12px;
+    position: relative;
+    left: 12px;
+
+}
+
+.contentImgHome3Text {
+    text-transform: uppercase;
+    font-size: 12px;
+    position: relative;
+    left: 15px;
+}
