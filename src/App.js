@@ -5,6 +5,7 @@ import "./assets/css/global.css";
 import { BannerHome } from "./components/BannerHome"
 import { InfoHome } from "./components/InfoHome"
 import { ContentHome } from "./components/ContentHome"
+import { ContenidoExclusivo } from "./components/ContenidoExclusivo";
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
           <BannerHome/>
           <InfoHome/>
           <ContentHome/>
+          <ContenidoExclusivo/>
     </div>
   );
 }

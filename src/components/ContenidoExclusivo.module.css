@@ -1,0 +1,71 @@
+.contenidoExclusivo {
+  background-color: black;
+  font-family: "Lato";
+  position: relative;
+  padding: 30px 40px;
+}
+
+.title {
+  color: #d8d7ce;
+  text-transform: uppercase;
+  text-align: center;
+  padding-bottom: 38px;
+}
+
+.title h3 {
+  font-weight: 400;
+  width: 1137px;
+  height: 32px;
+  font-size: 35px;
+}
+
+.iconsContent {
+  display: flex;
+  justify-content: center;
+  color: white;
+  text-transform: uppercase;
+}
+
+.localizationIcon {
+  margin-left: 106px;
+}
+
+.testsIcon {
+  margin-left: 113px;
+}
+
+.tasksIcon {
+  margin-left: 119px;
+}
+
+.layerIconText {
+  height: 66px;
+  padding-top: 17px;
+}
+
+.localizationItconText {
+  padding-top: 17px;
+}
+
+.testsIconText {
+  padding-top: 17px;
+}
+
+.tasksIconText {
+  padding-top: 17px;
+}
+
+.button {
+  text-align: center;
+}
+
+.contenidoExclusivoButton {
+  height: 48px;
+  width: 368px;
+  left: 0px;
+  top: 0px;
+  border-radius: 4px;
+  background: #c5af19;
+  color: white;
+  text-transform: uppercase;
+}
