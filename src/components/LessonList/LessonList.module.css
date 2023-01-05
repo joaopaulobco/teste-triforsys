@@ -1,0 +1,21 @@
+.lessonList {
+  background-color: #f6f4ef;
+  padding: 16px 48px 33px 25px;
+  margin-top: 19px;
+  border-radius: 4px;
+}
+
+.lessonListButton {
+  text-align: center;
+}
+
+.lessonListButton button {
+  text-transform: uppercase;
+  font-family: "Lato";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 12px;
+  line-height: 16px;
+  border: 2px solid #1d1a05;
+  border-radius: 4px;
+}

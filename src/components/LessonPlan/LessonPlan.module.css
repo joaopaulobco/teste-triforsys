@@ -1,0 +1,22 @@
+.lessonPlan {
+  position: relative;
+  background-color: black;
+  padding: 1px;
+}
+
+.title {
+  text-align: center;
+  text-transform: uppercase;
+  height: 32px;
+  
+}
+
+.title h3 {
+  font-family: "Lato";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 28px;
+  line-height: 32px;
+  color: #D8D7CE;
+}
+

@@ -5,7 +5,7 @@ export const BannerHome = () => {
   return (
     <section className={styles.bannerHome}>
       <Container>
-        <img src={Hero} className={styles.img}></img>
+        <img src={Hero} className={styles.img} alt=""></img>
         <div className={styles.textContainer}>
           <div className={styles.mireia}>mireia belmonte</div>
           <div className={styles.containerEnsina}>

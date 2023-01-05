@@ -14,19 +14,19 @@ export const ContenidoExclusivo = () => {
         </div>
         <div className={styles.iconsContent}>
           <div className={styles.layerIcon}>
-            <img src={layer}></img>
+            <img src={layer} alt=''></img>
             <div className={styles.layerIconText}>e-books</div>
           </div>
           <div className={styles.localizationIcon}>
-            <img src={localization}></img>
+            <img src={localization} alt=''></img>
             <div className={styles.localizationItconText}> 360º videos </div>
           </div>
           <div className={styles.testsIcon}>
-            <img src={tests}></img>
+            <img src={tests} alt=''></img>
             <div className={styles.testsIconText}>tests</div>
           </div>
           <div className={styles.tasksIcon}>
-            <img src={tasks}></img>
+            <img src={tasks} alt=''></img>
             <div className={styles.tasksIconText}>tareas</div>
           </div>
         </div>
